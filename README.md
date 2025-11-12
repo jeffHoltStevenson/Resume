@@ -1,4 +1,4 @@
-# See index.md
+# ReadMe.md
 
 https://jeffholtstevenson.github.io/Resume/
 
