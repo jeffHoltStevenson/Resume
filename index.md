@@ -1,2 +1,2 @@
 # Resume
-Shocking, my resume
+Shocking, my resume or a slightly slimmer version of it.
