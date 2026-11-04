@@ -1,6 +1,6 @@
 # Jeff Holt
 
-Stevenson, WA · [jeff@aascot.com](mailto:jeff@aascot.com) · [LinkedIn](https://www.linkedin.com/in/jefferyholt/) · [GitHub](https://github.com/jeffHoltStevenson)
+Stevenson, WA · [LinkedIn](https://www.linkedin.com/in/jefferyholt/) · [GitHub](https://github.com/jeffHoltStevenson)
 
 ## Leadership
 
