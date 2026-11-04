@@ -14,14 +14,13 @@ Organized engineering leader with years of experience deploying software to high
 - Led an engineering team of about 10. Resolved **884 Jira tickets in the last 12 months, up 43% from 618** the year before.
 - Brought the Devin AI agent into delivery with a written Jira playbook. In 24 weeks it authored **about 200 merged PRs, more than the six core developers combined**, and drove **183 of 520 resolved tickets**.
 - Benchmarked **12 AI models** (Claude, GPT, Gemini, Grok) on the same engineering task, scoring tests, structure and docs. The results set the team's standard tools.
-- Surveyed 22 staff on AI use (**21 already using it**), then wrote the company AI policy: **4 data classes, access rules for 11 systems**, approved tools and an incident path.
 - Standardized incident response with RCA and SITREP templates and a whole-site uptime rule. **99.93% uptime in 2026**: 302 minutes down through Oct 19, against 478 in all of 2025.
-- Audited test coverage across **22 test projects and 8 deploy pipelines**. Found **7 Lambda pipelines running zero unit tests** and 4 test projects that never ran, and published a ranked plan to fix them.
+- Audited test coverage across **22 test projects and 8 deploy pipelines**. 
 - Built the company-wide security awareness program: **5 course levels** for Engineering, Support, Marketing and Sales, plus incident-reporting and phishing-campaign procedures.
-- Ran two rubric-based hiring cycles. Spring 2025: **547 resumes to 2 hires in about 6 weeks**. Fall 2026: a scored Jira-decomposition interview and pair session for 11 finalists.
-- Designed per-developer Docker SQL Server environments to replace the shared dev database. Covers the 4 of 9 databases behind most data-access code and re-seeds in about 2 minutes.
+- Ran two rubric-based hiring cycles.
+- Designed per-developer Docker SQL Server environments to replace the shared dev database. Re-seeds in about 2 minutes.
 - Prototyped two Australian motorsport registration and licensing platforms as clickable demos (public and admin portals, fees, approvals) to support international expansion.
-- Shipped **9 straight monthly public release notes**, turning Jira fix versions into customer-facing updates.
+- Shipped **public release notes**, turning Jira fix versions into customer-facing updates.
 - Evaluated CI/CD dependency scanning (dotnet audit, OWASP Dependency-Check, Trivy, Renovate) and tested Bruno and Azure DevOps Pipelines.
 - Wrote **256 Confluence pages** on how we work: onboarding, standards, runbooks, interview guides and security procedures.
 - Visit customers at the track to see how our products get used, and bring that back to the team.
@@ -120,7 +119,7 @@ Organized engineering leader with years of experience deploying software to high
 
 ## Recent Reading
 
-*Accelerate*, *The Phoenix Project*, *Modern Software Engineering*, *Modernizing .NET Web Applications*, *Apple in China*
+*Modern Software Engineering*, *Architecture for Flow*, *Accelerate*, *The Phoenix Project*, *Modern Software Engineering*, *Modernizing .NET Web Applications*, *Apple in China*
 
 ## Volunteering
 
@@ -132,4 +131,4 @@ Organized engineering leader with years of experience deploying software to high
 - Professional and amateur race car mechanic and driver
 - RC racing and aircraft
 - VR
-- Board games like Castles of Burgundy, Cascadia and Great Western Trail
+- Board games like Gloomhaven, Castles of Burgundy, Cascadia and Great Western Trail
