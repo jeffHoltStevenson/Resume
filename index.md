@@ -119,7 +119,7 @@ Organized engineering leader with years of experience deploying software to high
 
 ## Recent Reading
 
-*Modern Software Engineering*, *Architecture for Flow*, *Accelerate*, *The Phoenix Project*, *Modern Software Engineering*, *Modernizing .NET Web Applications*, *Apple in China*
+*Modern Software Engineering*, *Architecture for Flow*, *Accelerate*, *The Phoenix Project*, *Modernizing .NET Web Applications*, *Apple in China*
 
 ## Volunteering
 
