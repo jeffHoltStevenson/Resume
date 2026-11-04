@@ -12,7 +12,6 @@ Organized engineering leader with years of experience deploying software to high
 *Remote, Stevenson, WA · November 2024 – Present*
 
 - Led an engineering team of about 10. Resolved **884 Jira tickets in the last 12 months, up 43% from 618** the year before.
-- Brought the Devin AI agent into delivery with a written Jira playbook. In 24 weeks it authored **about 200 merged PRs, more than the six core developers combined**, and drove **183 of 520 resolved tickets**.
 - Benchmarked **12 AI models** (Claude, GPT, Gemini, Grok) on the same engineering task, scoring tests, structure and docs. The results set the team's standard tools.
 - Standardized incident response with RCA and SITREP templates and a whole-site uptime rule. **99.93% uptime in 2026**: 302 minutes down through Oct 19, against 478 in all of 2025.
 - Audited test coverage across **22 test projects and 8 deploy pipelines**. 
