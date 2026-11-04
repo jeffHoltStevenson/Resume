@@ -18,7 +18,7 @@ Organized engineering leader with years of experience deploying software to high
 - Built the company-wide security awareness program: **5 course levels** for Engineering, Support, Marketing and Sales, plus incident-reporting and phishing-campaign procedures.
 - Ran two rubric-based hiring cycles.
 - Designed per-developer Docker SQL Server environments to replace the shared dev database. Re-seeds in about 2 minutes.
-- Prototyped two Australian motorsport registration and licensing platforms as clickable demos (public and admin portals, fees, approvals) to support international expansion.
+- Prototyped motorsport registration and licensing platforms as clickable demos (public and admin portals, fees, approvals) to support international expansion.
 - Shipped **public release notes**, turning Jira fix versions into customer-facing updates.
 - Evaluated CI/CD dependency scanning (dotnet audit, OWASP Dependency-Check, Trivy, Renovate) and tested Bruno and Azure DevOps Pipelines.
 - Wrote **256 Confluence pages** on how we work: onboarding, standards, runbooks, interview guides and security procedures.
