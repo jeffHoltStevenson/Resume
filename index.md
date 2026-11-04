@@ -11,8 +11,8 @@ Organized engineering leader with years of experience deploying software to high
 ### MyRacePass · Development Manager
 *Remote, Stevenson, WA · November 2024 – Present*
 
-- Benchmarked **12 AI models** (Claude, GPT, Gemini, Grok) on the same engineering task, scoring tests, structure and docs. The results set the team's standard tools.
-- Standardized incident response with RCA and SITREP templates and a whole-site uptime rule. **99.93% uptime in 2026**: 302 minutes down through Oct 19, against 478 in all of 2025.
+- Benchmarked **12 AI models** (Claude, GPT, Gemini, Grok) on the same engineering task, scoring tests, structure and docs. 
+- Standardized incident response with RCA and SITREP templates and a whole-site uptime rule. **99.93% uptime in 2026**.
 - Audited test coverage across **22 test projects and 8 deploy pipelines**. 
 - Built the company-wide security awareness program: **5 course levels** for Engineering, Support, Marketing and Sales, plus incident-reporting and phishing-campaign procedures.
 - Ran rubric-based hiring cycles. A novel approach to the hard problem of hiring.
